@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author SALA I
  */
-public class Taller08 {
+public class Taller081 {
 
     /**
      * @param args the command line arguments
@@ -70,7 +70,7 @@ public class Taller08 {
                     + cedula + "\nHoras matutina trabajadas: " + horas_m + "\n"
                     + "Horas Nocturnas trabajadas: " + horas_n + "\n"
                     + "Subtotal: " + sueldo_sub + "\nSeguro social: " + seguro_s
-                    + "\nTotal a cancelar: " + sueldo_f + "\n"; 
+                    + "\nTotal a cancelar: " + sueldo_f;
 
             entrada.nextLine();
             System.out.println("Desea finalizar con el proceso? Digite s,"
